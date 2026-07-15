@@ -141,3 +141,4 @@ All endpoints require `Authorization: Bearer <token>`.
 | `make db-migrate`               | Apply pending migrations                           |
 | `make db-push`                  | Push schema directly to DB (skips migration files) |
 | `make token-create name=<name>` | Issue a new API token for a client service         |
+# service-tag-service
